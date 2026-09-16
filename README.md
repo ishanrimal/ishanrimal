@@ -1,27 +1,217 @@
-## Hi there 👋
+<div align="center">
 
+# 👋 Hi, I'm Ishan Rimal
 
-<h1 align="center">Hi 👋, I'm Ishan Rimal</h1>
-<h3 align="center">A passionate developer from Nepal</h3>
+### `Developer • Django • Python • Automation • AI`
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanrimal&label=Profile%20views&color=0e75b6&style=flat" alt="ishanrimal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishanrimal" alt="ishanrimal" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/ishanrimal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishanrimal07" height="30" width="40" /></a>
-<a href="https://instagram.com/_ishanrimal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ishanrimal_" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/ishanrimal">
+    <img src="https://img.shields.io/badge/GitHub-ishanrimal-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=ishanrimal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishanrimal&show_icons=true&locale=en&layout=compact" alt="ishanrimal" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishanrimal&show_icons=true&locale=en" alt="ishanrimal" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanrimal&" alt="ishanrimal" /></p>
+## 🚀 About Me
 
+I'm **Ishan Rimal**, a developer from Nepal who enjoys building practical applications, learning modern development tools, and turning ideas into working projects.
+
+* 💻 Currently exploring **Django & Python**
+* 🤖 Interested in **AI, automation & n8n**
+* 🌐 Building **web applications and useful tools**
+* 📚 Continuously learning and improving my development skills
+* 🇳🇵 Based in Nepal
+* ⚡ I enjoy building projects that solve real-world problems
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" alt="Languages">
+</p>
+
+### Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,tailwind" alt="Frameworks">
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,n8n,mysql,sqlite" alt="Tools">
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ishanrimal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" height="180" alt="Ishan's GitHub Stats">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanrimal&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="180" alt="Top Languages">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.demolab.com/?user=ishanrimal&hide_border=true&theme=transparent" alt="GitHub Contribution Streak">
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishanrimal&bg_color=ffffff00&color=58a6ff&line=58a6ff&point=1f6feb&area=true&hide_border=true" alt="GitHub Activity Graph">
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ishanrimal&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies">
+
+</div>
+
+---
+
+# 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/ishanrimal">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishanrimal&repo=YOUR_PROJECT_1&hide_border=true&theme=transparent" alt="Featured Project 1">
+</a>
+
+<a href="https://github.com/ishanrimal">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishanrimal&repo=YOUR_PROJECT_2&hide_border=true&theme=transparent" alt="Featured Project 2">
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/ishanrimal">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishanrimal&repo=YOUR_PROJECT_3&hide_border=true&theme=transparent" alt="Featured Project 3">
+</a>
+
+<a href="https://github.com/ishanrimal">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishanrimal&repo=YOUR_PROJECT_4&hide_border=true&theme=transparent" alt="Featured Project 4">
+</a>
+
+</div>
+
+> **Important:** Replace `YOUR_PROJECT_1`, `YOUR_PROJECT_2`, etc. with your actual repository names. Don't leave these placeholders in the final README.
+
+---
+
+# 📦 GitHub Overview
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/ishanrimal?style=for-the-badge&logo=github&label=Followers" alt="Followers">
+
+<img src="https://img.shields.io/github/stars/ishanrimal?style=for-the-badge&logo=github&label=Stars" alt="Stars">
+
+<img src="https://img.shields.io/github/repositories/ishanrimal?style=for-the-badge&logo=github&label=Repositories" alt="Repositories">
+
+</div>
+
+---
+
+# 🔥 My Development Journey
+
+```text
+Learning        ███████████████████░░   90%
+Building        █████████████████░░░░   85%
+Problem Solving ████████████████░░░░░   80%
+Exploring AI    ██████████████░░░░░░░   70%
+Automation      █████████████░░░░░░░░   65%
+```
+
+---
+
+# 🎯 Currently Exploring
+
+```text
+🐍 Python & Django
+🤖 AI-powered applications
+⚙️ n8n automation
+🌐 Full-stack web development
+🗄️ Database design
+🔐 Authentication & APIs
+🚀 Deployment & DevOps
+```
+
+---
+
+# 📚 What I'm Building
+
+I'm interested in projects that combine:
+
+**Web Development + Automation + AI + Real-World Problems**
+
+Some areas I'm exploring:
+
+* 🏏 Management systems
+* 📚 Educational applications
+* 🍳 Recipe and content platforms
+* 🤖 AI assistants
+* ⚙️ Business automation
+* 📊 Data-driven applications
+* 🔎 Monitoring and notification systems
+
+---
+
+# 💡 Development Philosophy
+
+> **Build → Break → Learn → Improve → Repeat.**
+
+I believe the best way to learn development is by building real projects, understanding why things work, and continuously improving them.
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/ishanrimal">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**If you find something useful here, consider giving the repository a ⭐**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=100&section=footer" alt="Footer">
+
+</div>
